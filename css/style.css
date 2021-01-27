@@ -1,0 +1,22 @@
+body {
+    /* text-align: center; */
+    font-family: Arial;
+}
+
+.photo {
+    border-radius: 25px;
+    width: 300px;
+}
+
+a { 
+    text-decoration: none;
+    color: #ff0000;
+}
+
+a:hover {
+    border-bottom: 2px solid #ff0000;
+}
+
+.instagramIconStyle {
+    width: 25px;
+}
